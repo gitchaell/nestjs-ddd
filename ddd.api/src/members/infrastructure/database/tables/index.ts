@@ -1,1 +1,1 @@
-export * from './member.table';
+export * from './member.table'

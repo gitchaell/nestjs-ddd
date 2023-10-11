@@ -1,2 +1,2 @@
-export * from './member.table';
-export * from './project.table';
+export * from './member.table'
+export * from './project.table'

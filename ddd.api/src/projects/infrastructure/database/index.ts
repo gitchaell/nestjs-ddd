@@ -1,2 +1,2 @@
-export * from './tables';
-export * from './project.repository';
+export * from './tables'
+export * from './project.repository'
